@@ -1,0 +1,44 @@
+---
+title: "Projects"
+editor: visual
+---
+
+## Course Projects and Competitions
+
+[Most Active Stocks Price Predictions and Visualizations](https://joyceeexby.quarto.pub/myblog/posts/final_project/)
+
+- Built the Long Short-Term Memory (LSTM) model using TensorFlow to predict prices of the most active traded stocks
+
+- Created an interactive app using Plotly Dash to display historical prices and future predictions with user-specified technical indicators
+
+[IMDb Movie Review Sentiment Classification](/docs/projects/Stats 101c_Final Project_Group 12.pdf)
+
+- Deployed four machine learning methods - K-Nearest Neighbors (KNN), Random
+Forest, Logistic Regression, and Support Vector Machine (SVM) - to analyze the binary classification for 50,000 IMDb movie reviews
+
+[2023 ASA DataFest at UCLA](/docs/projects/E11Dancin' Queens.pdf)
+
+- Analyze a dataset of 400K question posts from the American Bar Association (ABA) and provide
+recommendations on improving its pro bono legal services within 48 hours
+
+- Applied Natural Language Processing (NLP) and Sentiment Analysis to analyze posts' clarity and clients' satisfaction
+
+- Team won **Don Ylvisaker Best Insight Honorable Mention**
+
+## Consulting
+
+[Amigos de los Rios Endowment Plan & Value Statement](/docs/projects/Final Deliverable - Amigos de los Rios (1).pdf)
+
+- Aimed to help Amigo de los Rios, an environmental conservation nonprofit, improve its funding
+availability
+
+- Conducted thorough market research and competitive analyses to recommended establishing a quasi-endowment fund and implementing successful tactics from other NGOs
+
+## Finance
+
+[MP Materials Investment Case](/docs/projects/Joyce Xu MP Materials Investment Case - Updated.pdf)
+
+- Developed investment report and strategic consideration for MP Materials through conducting industry and company due diligence, listening to earnings calls, and analyzing SEC filings
+
+- Built 10-year scenario-based three statement financial models with Wall Street estimates, and performed company valuation using discounted cash flow analysis and comparable trading multiple analysis
+

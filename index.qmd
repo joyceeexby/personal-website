@@ -1,0 +1,26 @@
+---
+title: "Bingyi (Joyce) Xu"
+
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/bingyi-xu-124b021a7/?locale=en_US
+    - icon: github
+      text: GitHub
+      url: https://github.com/joyceeexby
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:joycexu020113@g.ucla.edu" 
+
+image: /docs/Xu_Joyce.JPG
+---
+
+I am currently a senior at **University of California, Los Angeles (UCLA)** double-majoring in **Mathematics/Economics and Statistics & Data Science**. I also aim to declare my **Specialization in Computing** before graduation. Majoring in these subjects helped me build a solid quantitative background and strengthened my logical thinking and data analysis skills. 
+
+I was very interested in business in general when I first entered college, so I further explored the field by actively participating in consulting clubs. I later discovered my more specific passion in finance through several internships related to factor investing and private equity. 
+
+Apart from my academic interests, I’m also actively involved in extracurricular clubs on campus related to professional development and volunteering. During my free time, I also like to sing and dance with my friends in a cappella groups and dance clubs.
+
+**Resume:** [Resume](/docs/Resume.pdf)
